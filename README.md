@@ -44,4 +44,4 @@ Además, cada proyecto estará versionado y documentado de forma independiente.
 
 ---
 
-¡Gracias por visitar mi repositorio! Si tienes sugerencias o ideas, no dudes en abrir un [issue](https://github.com/TU_USUARIO/TU_REPO/issues). 😄
+¡Gracias por visitar mi repositorio! Si tienes sugerencias o ideas, no dudes en abrir un [issue](https://github.com/Alextc35/proeyctos-desarrollo-software/issues). 😄
