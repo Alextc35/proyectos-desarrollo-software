@@ -1,0 +1,12 @@
+{
+  "name": "proyectos-desarrollo-software",
+  "version": "1.0.0",
+  "description": "[![Estado del proyecto](https://img.shields.io/badge/Estado-Activo-brightgreen)](https://github.com/TU_USUARIO/TU_REPO)\r [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)](LICENSE)\r [![Hecho con ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)](#)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
