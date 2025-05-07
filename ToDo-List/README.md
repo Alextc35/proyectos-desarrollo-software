@@ -81,15 +81,6 @@ ToDo-List/
 └── README.md
 ```
 
-## 📌 Estado del proyecto
-
-- [x] Definición de requerimientos
-- [x] Diseño inicial
-- [ ] Desarrollo backend
-- [ ] Desarrollo frontend
-- [ ] Pruebas
-- [ ] Despliegue
-
 ---
 
 ## 💡 Posibles mejoras
@@ -106,9 +97,8 @@ ToDo-List/
 
 *(Aquí puedes añadir capturas si las tienes)*
 
-```markdown
 ![Pantalla principal](./screenshots/home.png)
-```
+
 
 ## 🏗️ Contribuciones
 
