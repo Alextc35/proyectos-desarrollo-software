@@ -97,7 +97,7 @@ ToDo-List/
 
 *(Aquí puedes añadir capturas si las tienes)*
 
-![Pantalla principal](./screenshots/home.png)
+![Pantalla principal](./.screenshots/home.png)
 
 
 ## 🏗️ Contribuciones
