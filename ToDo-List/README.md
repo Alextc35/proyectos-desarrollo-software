@@ -117,7 +117,7 @@ Por favor, sigue estas recomendaciones:
 
 ## 📄 Licencia
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más información.
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](../LICENSE) para más información.
 
 ---
 
