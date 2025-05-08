@@ -1,0 +1,22 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "[![Estado del proyecto](https://img.shields.io/badge/Estado-En%20desarrollo-yellow)](https://github.com/TU_USUARIO/ToDo-List)\r [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)](LICENSE)\r [![Hecho con ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)](#)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "connect-flash": "^0.1.1",
+    "dotenv": "^16.5.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "express-ejs-layouts": "^2.5.1",
+    "express-session": "^1.18.1",
+    "mongoose": "^8.14.1"
+  }
+}
