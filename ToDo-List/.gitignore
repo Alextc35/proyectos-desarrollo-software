@@ -1,0 +1,25 @@
+# 📝 Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+
+# ⚙️ Entornos y configuración sensible
+.env
+
+# 📂 Logs
+logs/
+*.log
+logs/**/*.log
+
+# 🔥 IDEs y editores
+.vscode/
+.idea/
+
+# 💻 Sistema
+*.swp
+*.swo
+
+# 📄 Otros
+coverage/
