@@ -7,6 +7,7 @@ package-lock.json
 
 # ⚙️ Entornos y configuración sensible
 .env
+ToDo-List/.env
 
 # 📂 Logs
 logs/
@@ -23,3 +24,4 @@ logs/**/*.log
 
 # 📄 Otros
 coverage/
+
