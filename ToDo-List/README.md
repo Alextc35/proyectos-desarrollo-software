@@ -37,16 +37,17 @@
 
 ```
 ToDo-List/
+├── .screenshots/
 ├── src/
 │ ├── controllers/
+│ ├── middlewares/
 │ ├── models/
 │ ├── routes/
-│ ├── middlewares/
 │ └── views/
-├── .env
+├── README.md
 ├── app.js
 ├── package.json
-└── README.md
+└── .env
 ```
 
 ## ⚙️ **Instalación y uso**
