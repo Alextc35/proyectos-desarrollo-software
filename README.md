@@ -38,7 +38,7 @@ Además, cada proyecto estará versionado y documentado de forma independiente.
 
 ## 📈 Estado de avance
 
-- Proyectos completados: **0 de 7**
+- Proyectos completados: **1 de 7**
 
 ✅ Actualizaré esta sección conforme avance en cada reto.
 
